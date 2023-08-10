@@ -29,3 +29,4 @@ v1.push(8)
 
 v1.each do |elem|
     puts elem
+end
