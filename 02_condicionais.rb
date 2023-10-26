@@ -1,4 +1,4 @@
-# Estruturas condicional ternária
+# Estruturas condicional ternária.
 
 sexo = 'M'
 

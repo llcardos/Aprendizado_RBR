@@ -4,7 +4,7 @@
     puts " o valor lido foi: " + i.to_s
 end
 
-#while (lembra muito uma Progressao Aritimética)
+#while (lembra muito uma Progressão Aritimética)
 
 i = 0
 num = 5

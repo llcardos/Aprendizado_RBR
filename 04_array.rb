@@ -6,12 +6,12 @@ v.each do |externo|
     end
 end
 
-puts "---------------------"
+puts "--------------------"
 
 s = "Lucas"
 puts s[4]
 
-puts "---------------------"
+puts "--------------------"
 
 v = [1,3,5,7,9]
 
@@ -19,7 +19,7 @@ v.each do |elem|
     puts elem
 end
 
-puts "---------------------"
+puts "--------------------"
 
 v1 = [] # Array.new
 v1.push(4)
