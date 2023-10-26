@@ -1,3 +1,4 @@
+#strig
 x = "Lucas"
 y = "Rails"
 
@@ -14,6 +15,8 @@ puts a + b
 
 puts "-----------------------"
 
+#concatenar
+
 x = "curso"
 puts x.object_id
 x = x + "rails"
@@ -29,6 +32,8 @@ puts q
 puts q.object_id
 
 puts "-----------------------"
+
+#iterpolar
 
 h = "Lucas #{q} Cardoso #{y}"
 puts h
