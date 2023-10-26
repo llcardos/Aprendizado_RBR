@@ -4,4 +4,4 @@ def git_add_commit_push(message)
     system("git push")
   end
   
-  git_add_commit_push("aprendizado RBR")
+  git_add_commit_push("Aprendizado RBR")
